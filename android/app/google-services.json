@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126350093307",
+    "project_id": "earth-scan",
+    "storage_bucket": "earth-scan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126350093307:android:f496a052cf6e2a86b2795e",
+        "android_client_info": {
+          "package_name": "com.sp.earth_scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126350093307-rn6hh1ic8817sftgdn9a9n8t33j6u5m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo9K7ptDPuiecyU6p1Ret4GZ6BK3vsgig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126350093307-rn6hh1ic8817sftgdn9a9n8t33j6u5m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
